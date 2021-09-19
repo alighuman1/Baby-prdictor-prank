@@ -1,1 +1,1 @@
-# Math quiz using Retrofit libray ApI
+using radom pictures and displaying them
